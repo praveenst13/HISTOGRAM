@@ -8,23 +8,23 @@ Anaconda - Python 3.7
 
 ## Algorithm:
 ### Step1:
-<br>
+
 Import the necessary libraries and read two images, Color image and Gray Scale image
 
 ### Step2:
-<br>
+
 Calculate the Histogram of Gray scale image and each channel of the color image.
 
 ### Step3:
-<br>
+
 Display the histograms with their respective images.
 
 ### Step4:
-<br>
+
 Equalize the grayscale image.
 
 ### Step5:
-<br>
+
 Display the grayscale image.
 
 
@@ -32,6 +32,8 @@ Display the grayscale image.
 
 
 ## Program:
+
+
 ```python
 # Developed By:Praveen s
 # Register Number:212222240077
