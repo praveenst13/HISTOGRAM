@@ -31,8 +31,6 @@ Display the grayscale image.
 ```python
 # Developed By:Praveen s
 # Register Number:212222240077
-import cv2
-import matplotlib.pyplot as plt
 
 # Write your code to find the histogram of gray scale image and color image channels.
 import cv2
@@ -70,9 +68,6 @@ plt.ylabel("Pixel Count")
 plt.stem(color_hist)
 plt.show()
 
-
-
-
 # Write the code to perform histogram equalization of the image. 
 import cv2
 import matplotlib.pyplot as plt
@@ -109,7 +104,6 @@ cv2.destroyAllWindows()
 
 ![dipt3](https://github.com/praveenst13/HISTOGRAM/assets/118787793/993bf6d3-b002-45bf-bebf-abada68f9e77)
 
-<br>
 
 <br>
 
