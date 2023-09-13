@@ -26,22 +26,13 @@ Equalize the grayscale image.
 ### Step5:
 
 Display the grayscale image.
-
-
-
-
-
-
-
-
-
-
-
 ## Program: 
-```python
+
 # Developed By:Praveen s
 # Register Number:212222240077
 
+
+```python
 # Write your code to find the histogram of gray scale image and color image channels.
 import cv2
 import matplotlib.pyplot as plt
