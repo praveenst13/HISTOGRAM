@@ -29,12 +29,16 @@ Display the grayscale image.
 
 
 
-<br>
 
-## Program:
 
-  
-  ```
+
+
+
+
+
+
+## Program: 
+```python
 # Developed By:Praveen s
 # Register Number:212222240077
 
