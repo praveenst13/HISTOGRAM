@@ -43,10 +43,11 @@ Color_image=cv2.imread('fox.jpg',0)
 plt.imshow(Color_image)
 plt.show()
 
-
+```
 
 # Display the histogram of gray scale image and any one channel histogram from color image
 
+```python
 import cv2
 import matplotlib.pyplot as plt
 gray_image = cv2.imread("fox.jpg")
@@ -68,8 +69,10 @@ plt.xlabel("Intensity Value")
 plt.ylabel("Pixel Count")
 plt.stem(color_hist)
 plt.show()
-
+```
 # Write the code to perform histogram equalization of the image. 
+
+```python
 import cv2
 import matplotlib.pyplot as plt
 gray_image = cv2.imread('fox1.png',0)
@@ -78,12 +81,6 @@ cv2.imshow('Gray image',gray_image)
 cv2.imshow('Equalized Image',equ)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
-
-
-
-
-
-
 ```
 ## Output:
 ### Input Grayscale Image and Color Image
